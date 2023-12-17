@@ -16,6 +16,7 @@ and will snipe any limited you added that reachs the max price you specified for
 - [x] - **Supports Multi-ID**
 - [x] - **Webhook Support** 
 - [x] - **Can be ran in AWS** 
+- [x] - **Snipes Paid and resellables UGC Limiteds** 
 - [ ] - **Discord Bot Support (SOON)** 
 
 ## Preview:
