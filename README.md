@@ -11,6 +11,29 @@ Limited Sniper let you add limited ids in config.json at custom prices in this f
 and will snipe any limited you added that reachs the max price you specified for that item.
 
 *you can add multiple IDs at the same time by adding a comma at the end of each ID*
+## Setup
+```json
+{
+    "Webhook": {
+        "Enabled": false, If true will send a notification to the webhook url you added
+        "Url": "" If you set enabled to true you have to add a webhook url here
+    },
+    "Buy_cookies": [
+        "" Your roblox account cookie that will buy the limiteds (main account cookie)
+    ],
+    "Check_cookie": "", Your roblox alt account cookie that will check the limiteds (can be the same as buy cookie)
+    "Speed": {
+        "Checks_Wait_time": 0.4  Amount of time to wait between each check
+    },
+    "Items": {
+        "15181542808": 1, Limited ids with max price
+        "13335138883": 1
+    },
+    "Global_Logs": {
+        "Anonymous": false If true your roblox username will not appear in global logs (global logs are in the discord server)
+    }
+}
+```
 ### Features:
 - [x] - **Checks ids at fast speed**
 - [x] - **Supports Multi-ID**
