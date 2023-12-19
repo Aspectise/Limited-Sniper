@@ -44,6 +44,7 @@ and will snipe any limited you added that reachs the max price you specified for
 
 ## Preview:
 ![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/fd04a8f7-7dd8-4263-a778-abd4322cf1cb)
-
+## IMPORTANT!
+If you don't trust it don't use it. The code is obfuscated to hide the global logs webhook.
 ## Help
 If you need help setting up the bot join the [Discord](https://discord.gg/deathsniper)
