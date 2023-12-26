@@ -25,6 +25,7 @@ and will snipe any limited you added that reachs the max price you specified for
     "Speed": {
         "Checks_Wait_time": 0.4  Amount of time to wait between each check
     },
+    "Global_buy_limit": 1, Max amount of copies to buy from an id
     "Items": {
         "15181542808": 1, Limited ids with max price
         "13335138883": 1
