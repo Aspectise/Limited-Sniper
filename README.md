@@ -46,24 +46,30 @@ and will snipe any limited you added that reachs the max price you specified for
 - [x] - **Webhook Support** 
 - [x] - **Can be ran in AWS** 
 - [x] - **Snipes Paid and resellables UGC Limiteds** 
-- [ ] - **Discord Bot Support (SOON)** 
+- [x] - **Discord Bot w/ Slash Commands** 
 
 ## Preview:
 ![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/30e9f7e5-ab30-4d45-ac04-43ca2a8da4ab)
 
 <details>
 <summary><strong>How to get discord token! (Click to expand) </strong></summary>
-##### Create a new [application](https://discord.com/developers/applications)    
+
+    
+#### Create a new [application](https://discord.com/developers/applications)
+
 ![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/bd00ca9e-9770-4ff3-894c-67f7504cc01e)
 
-##### Enable these 3 intents
+#### Enable these 3 intents
+
 ![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/f13478d8-0888-4f61-8309-c11e784093d3)
 
-##### Get the token by clicking copy
+#### Get the token by clicking copy
+
 ![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/1a4e49b3-ce05-4083-b0bb-1ffe65cf296b)
 
-##### To invite the bot: Click copy and paste the url in your browser
-![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/bd2daf47-b774-426b-89f9-bd2af05fca5e)
+#### To invite the bot: Click copy and paste the url in your browser
+
+![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/48ab3857-beb9-412f-8bcc-f95856875b10)
 </details>
 
 ## IMPORTANT!
