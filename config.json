@@ -17,5 +17,10 @@
     },
     "Global_Logs": {
         "Anonymous": false
+    },
+    "Discord": {
+        "Enabled": false,
+        "Token": "",
+        "Owner_id": []
     }
 }
