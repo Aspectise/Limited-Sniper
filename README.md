@@ -32,6 +32,11 @@ and will snipe any limited you added that reachs the max price you specified for
     },
     "Global_Logs": {
         "Anonymous": false If true your roblox username will not appear in global logs (global logs are in the discord server)
+    },
+    "Discord": {
+        "Enabled": false, Put to true if you want to manage the sniper using discord commands
+        "Token": "", If you made Enabled to true you have to add a discord bot token here
+        "Owner_id": [] Put the discord user ids of people that are allowed to use the commands of the bot
     }
 }
 ```
@@ -44,8 +49,24 @@ and will snipe any limited you added that reachs the max price you specified for
 - [ ] - **Discord Bot Support (SOON)** 
 
 ## Preview:
-![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/fd04a8f7-7dd8-4263-a778-abd4322cf1cb)
+![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/30e9f7e5-ab30-4d45-ac04-43ca2a8da4ab)
+
+<details>
+<summary><strong>How to get discord token! (Click to expand) </strong></summary>
+##### Create a new [application](https://discord.com/developers/applications)    
+![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/bd00ca9e-9770-4ff3-894c-67f7504cc01e)
+
+##### Enable these 3 intents
+![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/f13478d8-0888-4f61-8309-c11e784093d3)
+
+##### Get the token by clicking copy
+![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/1a4e49b3-ce05-4083-b0bb-1ffe65cf296b)
+
+##### To invite the bot: Click copy and paste the url in your browser
+![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/bd2daf47-b774-426b-89f9-bd2af05fca5e)
+</details>
+
 ## IMPORTANT!
-If you don't trust it don't use it. The code is obfuscated to hide the global logs webhook.
+If you don't trust it don't use it. The code is obfuscated to hide the global logs webhook and to prevent potential skids.
 ## Help
 If you need help setting up the bot join the [Discord](https://discord.gg/deathsniper)
