@@ -40,16 +40,6 @@ and will snipe any limited you added that reachs the max price you specified for
     }
 }
 ```
-### Features:
-- [x] - **Checks ids at fast speed**
-- [x] - **Supports Multi-ID**
-- [x] - **Webhook Support** 
-- [x] - **Can be ran in AWS** 
-- [x] - **Snipes Paid and resellables UGC Limiteds** 
-- [x] - **Discord Bot w/ Slash Commands** 
-
-## Preview:
-![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/30e9f7e5-ab30-4d45-ac04-43ca2a8da4ab)
 
 <details>
 <summary><strong>How to get discord token! (Click to expand) </strong></summary>
@@ -72,8 +62,26 @@ and will snipe any limited you added that reachs the max price you specified for
 ![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/48ab3857-beb9-412f-8bcc-f95856875b10)
 </details>
 
+# For macOS users
+If you're trying to use the Discord Bot but you're Bot does not go online when you open the sniper
+- Open a terminal and paste this
+```
+/Applications/Python\ 3.12/Install\ Certificates.command
+```
+
+### Features:
+- [x] - **Checks ids at fast speed**
+- [x] - **Supports Multi-ID**
+- [x] - **Webhook Support** 
+- [x] - **Can be ran in AWS** 
+- [x] - **Snipes Paid and resellables UGC Limiteds** 
+- [x] - **Discord Bot w/ Slash Commands** 
+
+## Preview:
+![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/30e9f7e5-ab30-4d45-ac04-43ca2a8da4ab)
+
 ## IMPORTANT!
 - If you don't trust it don't use it. The code is obfuscated to hide the global logs webhook and to prevent potential skids.
-- If main.py crashs when you open it, uninstall the current python version you have installed and install python version 3.11.x
+- If main.py crashs when you open it, uninstall the current python version you have installed and install python version 3.12.x
 ## Help
 If you need help setting up the bot join the [Discord](https://discord.gg/deathsniper)
