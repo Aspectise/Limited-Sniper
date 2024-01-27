@@ -7,17 +7,18 @@
         ""
     ],
     "Check_cookie": "",
-    "Speed": {
-        "Checks_Wait_time": 0.4
-    },
+
     "Global_buy_limit": 1,
+    
     "Items": {
         "15181542808": 1,
         "13335138883": 1
     },
+    
     "Global_Logs": {
         "Anonymous": false
     },
+    
     "Discord": {
         "Enabled": false,
         "Token": "",
