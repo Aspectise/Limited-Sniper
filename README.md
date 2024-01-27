@@ -22,17 +22,18 @@ and will snipe any limited you added that reachs the max price you specified for
         "" Your roblox account cookie that will buy the limiteds (main account cookie)
     ],
     "Check_cookie": "", Your roblox alt account cookie that will check the limiteds (can be the same as buy cookie)
-    "Speed": {
-        "Checks_Wait_time": 0.4  Amount of time to wait between each check
-    },
+
     "Global_buy_limit": 1, Max amount of copies to buy from an id
+
     "Items": {
         "15181542808": 1, Limited ids with max price
         "13335138883": 1
     },
+
     "Global_Logs": {
         "Anonymous": false If true your roblox username will not appear in global logs (global logs are in the discord server)
     },
+
     "Discord": {
         "Enabled": false, Put to true if you want to manage the sniper using discord commands
         "Token": "", If you made Enabled to true you have to add a discord bot token here
@@ -66,7 +67,7 @@ and will snipe any limited you added that reachs the max price you specified for
 If you're trying to use the Discord Bot but you're Bot does not go online when you open the sniper
 - Open a terminal and paste this
 ```
-/Applications/Python\ 3.12/Install\ Certificates.command
+/Applications/Python\ 3.11/Install\ Certificates.command
 ```
 
 ### Features:
@@ -82,6 +83,6 @@ If you're trying to use the Discord Bot but you're Bot does not go online when y
 
 ## IMPORTANT!
 - If you don't trust it don't use it. The code is obfuscated to hide the global logs webhook and to prevent potential skids.
-- If main.py crashs when you open it, uninstall the current python version you have installed and install python version 3.12.x
+- If main.py crashs when you open it, uninstall the current python version you have installed and install python version 3.11.x
 ## Help
 If you need help setting up the bot join the [Discord](https://discord.gg/deathsniper)
