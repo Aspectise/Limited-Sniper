@@ -1,6 +1,8 @@
 {
     "Webhook": {
         "Enabled": false,
+        "Send_Fails": false,
+        "UserID_To_Ping": 0,
         "Url": ""
     },
     "Buy_cookies": [
