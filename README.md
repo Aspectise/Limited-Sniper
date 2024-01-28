@@ -16,6 +16,8 @@ and will snipe any limited you added that reachs the max price you specified for
 {
     "Webhook": {
         "Enabled": false, If true will send a notification to the webhook url you added
+        "Send_Fails": false, If true will send a webhook notification when it fails to snipe an item with a reason
+        "UserID_To_Ping": 0, Discord user id you want to ping on successful snipes, Keep it at 0 to not ping
         "Url": "" If you set enabled to true you have to add a webhook url here
     },
     "Buy_cookies": [
