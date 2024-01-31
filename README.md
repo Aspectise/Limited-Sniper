@@ -78,8 +78,9 @@ If you're trying to use the Discord Bot but you're Bot does not go online when y
 ```
 
 ### Features:
-- [x] - **Checks ids at fast speed**
+- [x] - **Checks ids fast**
 - [x] - **Supports Multi-ID**
+- [x] - **4 Checkers/Watchers**
 - [x] - **Webhook Support** 
 - [x] - **Can be ran in AWS** 
 - [x] - **Snipes Paid and resellables UGC Limiteds** 
