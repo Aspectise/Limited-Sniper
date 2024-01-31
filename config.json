@@ -24,6 +24,10 @@
     "Discord": {
         "Enabled": false,
         "Token": "",
+        "Use_Prefix": {
+            "Enabled": false,
+            "Prefix": "!"
+        },
         "Owner_id": []
     }
 }
