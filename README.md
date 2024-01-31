@@ -40,6 +40,10 @@ and will snipe any limited you added that reachs the max price you specified for
     "Discord": {
         "Enabled": false, Put to true if you want to manage the sniper using discord commands
         "Token": "", If you made Enabled to true you have to add a discord bot token here
+        "Use_Prefix": {
+            "Enabled": false,  If true will use both slash and prefix commands for the discord bot
+            "Prefix": "!" Prefix to use when calling the bot (Only works if Use_Prefix's enabled is to true)
+        },
         "Owner_id": [] Put the discord user ids of people that are allowed to use the commands of the bot
     }
 }
