@@ -24,6 +24,7 @@
     "Discord": {
         "Enabled": false,
         "Token": "",
+        "StartUp_Message": true
         "Use_Prefix": {
             "Enabled": false,
             "Prefix": "!"
