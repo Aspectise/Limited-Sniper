@@ -16,6 +16,11 @@
         "15181542808": 1,
         "13335138883": 1
     },
+
+    "Auto-Restart":{
+        "Enabled": false,
+        "Seconds": 120
+    },
     
     "Global_Logs": {
         "Anonymous": false
