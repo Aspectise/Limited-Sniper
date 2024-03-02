@@ -97,7 +97,7 @@ If you're trying to use the Discord Bot but you're Bot does not go online when y
 - [x] - **Can be ran in AWS**
 - [x] - **Can be ran on Linux Based Machines**
 - [x] - **Snipes Paid and resellables UGC Limiteds** 
-- [x] - **Discord Bot w/ Slash Commands**
+- [x] - **Discord Bot w/ Slash Commands (17+ Commands)**
 - [x] - **Supports Tor Proxies (Windows Only)**  
 
 ## Preview:
