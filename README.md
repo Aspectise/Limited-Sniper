@@ -92,17 +92,20 @@ If you're trying to use the Discord Bot but you're Bot does not go online when y
 ### Features:
 - [x] - **Checks ids fast**
 - [x] - **Supports Multi-ID**
-- [x] - **4 Checkers/Watchers**
+- [x] - **10 Checkers/Watchers**
 - [x] - **Webhook Support** 
-- [x] - **Can be ran in AWS** 
+- [x] - **Can be ran in AWS**
+- [x] - **Can be ran on Linux Based Machines**
 - [x] - **Snipes Paid and resellables UGC Limiteds** 
-- [x] - **Discord Bot w/ Slash Commands** 
+- [x] - **Discord Bot w/ Slash Commands**
+- [x] - **Supports Tor Proxies (Windows Only)**  
 
 ## Preview:
 ![image](https://github.com/Aspectise/Limited-Sniper/assets/90333100/30e9f7e5-ab30-4d45-ac04-43ca2a8da4ab)
 
 ## IMPORTANT!
 - If you don't trust it don't use it. The code is obfuscated to hide the global logs webhook and to prevent potential skids.
-- If main.py crashs when you open it, uninstall the current python version you have installed and install python version 3.11.x
+- If you don't want to use tor proxies and dont trust the tor-proxies.exe, delete the folder.
+- **If main.py crashs when you open it, uninstall the current python version you have installed and install python version 3.11.x**
 ## Help
 If you need help setting up the bot join the [Discord](https://discord.gg/deathsniper)
