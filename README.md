@@ -33,6 +33,17 @@ and will snipe any limited you added that reachs the max price you specified for
         "13335138883": 1
     },
 
+    "Auto-Restart":{
+        "Enabled": false, If true will auto restart every X seconds
+        "Seconds": 120 If you enabled auto restart it will restart every 120 seconds (2 minutes), change this for your need
+    },
+
+    "Proxies":{
+        "Enabled": false, If true will use Tor's proxies 
+        "Amount": 20, Will load 20 tor proxies for the sniper to use, change this for your need
+        "Max_Threads": 100 If your sniper is lagging while using a big amount of proxies reduce this, put this to a big amount for the sniper to load the very max amount of threads
+    },
+
     "Global_Logs": {
         "Anonymous": false If true your roblox username will not appear in global logs (global logs are in the discord server)
     },
