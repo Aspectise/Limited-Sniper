@@ -25,7 +25,7 @@ and will snipe any limited you added that reachs the max price you specified for
     "Cookies": {
         "Buy_cookie": "", Your roblox account cookie that will buy the limiteds (main account cookie)
         "Check_cookie": "", Your roblox alt account cookie that will check the limiteds (can be the same as buy cookie)
-        "Bypass_cookies": false Bypass roblox's region lock
+        "Bypass_cookies": false Bypass roblox's region lock (optional)
     },
 
     "Items": {
