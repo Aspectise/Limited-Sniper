@@ -5,24 +5,23 @@
         "UserID_To_Ping": 0,
         "Url": ""
     },
-    "Buy_cookies": [
-        ""
-    ],
-    "Check_cookie": "",
-
-    "Global_buy_limit": 1,
+    
+    "Cookies": {
+        "Buy_cookie": "",
+        "Check_cookie": "",
+        "Bypass_cookies": false
+    },
     
     "Items": {
-        "15181542808": 1,
-        "13335138883": 1
+        "id": 123
     },
-
-    "Auto-Restart":{
+    
+    "Auto-Restart": {
         "Enabled": false,
-        "Seconds": 120
+        "Seconds": 20
     },
-
-    "Proxies":{
+    
+    "Proxies": {
         "Enabled": false,
         "Amount": 20,
         "Max_Threads": 100
