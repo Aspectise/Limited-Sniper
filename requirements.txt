@@ -1,0 +1,6 @@
+requests
+rgbprint
+bitarray
+discord.py
+pyuac
+pywin32
