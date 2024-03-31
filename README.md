@@ -21,12 +21,12 @@ and will snipe any limited you added that reachs the max price you specified for
         "UserID_To_Ping": 0, Discord user id you want to ping on successful snipes, Keep it at 0 to not ping
         "Url": "" If you set enabled to true you have to add a webhook url here
     },
-    "Buy_cookies": [
-        "" Your roblox account cookie that will buy the limiteds (main account cookie)
-    ],
-    "Check_cookie": "", Your roblox alt account cookie that will check the limiteds (can be the same as buy cookie)
 
-    "Global_buy_limit": 1, Max amount of copies to buy from an id
+    "Cookies": {
+        "Buy_cookie": "", Your roblox account cookie that will buy the limiteds (main account cookie)
+        "Check_cookie": "", Your roblox alt account cookie that will check the limiteds (can be the same as buy cookie)
+        "Bypass_cookies": false Bypass roblox's region lock
+    },
 
     "Items": {
         "15181542808": 1, Limited ids with max price
