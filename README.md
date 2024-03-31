@@ -1,5 +1,5 @@
 # Limited Sniper
-### Next update at 40 ⭐
+### Next update at 50 ⭐
 Limited Sniper let you add limited ids in config.json at custom prices in this format:
 ```json
 {
