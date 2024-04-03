@@ -28,6 +28,11 @@ and will snipe any limited you added that reachs the max price you specified for
         "Bypass_cookies": false Bypass roblox's region lock (optional)
     },
 
+    "Global_buy_limit": {
+        "Enabled": false, Enabke/Disable global buy limit
+        "Limit": 3 If you made enabled to true set a limit for the sniper to stop sniping an item that hits the specific limit aka amount of copies you own of that item
+    },
+
     "Items": {
         "15181542808": 1, Limited ids with max price
         "13335138883": 1
