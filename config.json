@@ -5,32 +5,31 @@
         "UserID_To_Ping": 0,
         "Url": ""
     },
-    
     "Cookies": {
         "Buy_cookie": "",
         "Check_cookie": "",
         "Bypass_cookies": false
     },
-    
-    "Items": {
-        "id": 123
+    "Global_buy_limit": {
+        "Enabled": false,
+        "Limit": 3
     },
-    
+    "Items": {
+        "15181542808": 1,
+        "13335138883": 1
+    },
     "Auto-Restart": {
         "Enabled": false,
         "Seconds": 20
     },
-    
     "Proxies": {
         "Enabled": false,
         "Amount": 20,
         "Max_Threads": 100
     },
-    
     "Global_Logs": {
         "Anonymous": false
     },
-    
     "Discord": {
         "Enabled": false,
         "Token": "",
